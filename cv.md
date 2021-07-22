@@ -1,7 +1,7 @@
 # Chembaieva Nina
 * ## My contacts:
-    ### Email: chembaeva.nina@gmail.com
-    ### Phone: +380500475089
+      ### Email: chembaeva.nina@gmail.com
+      ### Phone: +380500475089
 ---
 I don't have any IT experience yet, but I strive to master the profession of a front-end developer.
 
