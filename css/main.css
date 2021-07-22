@@ -1,0 +1,136 @@
+.body {
+  background-color: rgba(250, 244, 244, 0.877);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 0 15px 2px #cccccc;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin: 0;
+  text-align: center;
+  color: aliceblue;
+  background: #3793cc04 url('https://static.schools.by/images/header-bg/img-17.jpg') no-repeat center top;
+}
+
+.contacts-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-photo {
+  width: 220px;
+  border-radius: 110px;
+}
+
+.contacts {
+  width: fit-content;
+  margin: 20px auto;
+  padding: 0;
+  list-style: none;
+
+}
+
+.main {
+  margin: 0;
+  padding: 5px 20px;
+  background-color: white;
+  color: rgb(37, 33, 33);
+}
+
+.goals {
+  text-align: center;
+  margin: 20px 0;
+  padding: 5px 20px;
+  background-color: #f3f0f0;
+}
+
+.experience {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px 0 20px;
+  background-color: #f3f0f0;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  margin: 15px 0 0;
+}
+
+.skils {
+  padding: 0 20px;
+  background-color: rgb(233, 227, 227);
+  box-shadow: 0 0 15px 2px #cccccc;
+}
+
+.tools {
+  padding: 0 20px;
+  background-color: rgb(233, 227, 227);
+  box-shadow: 0 0 15px 2px #cccccc;
+}
+
+.idea {
+  align-items: center;
+  max-width: 50%;
+  padding: 0 20px;
+  margin: 35px 0;
+  background-color: rgb(233, 227, 227);
+  box-shadow: 0 0 15px 2px #cccccc;
+}
+
+ul {
+  text-align: left;
+  list-style: none;
+}
+
+.image {
+  text-align: center;
+  padding: 5px 20px 20px;
+  background-color: #f3f0f0;
+}
+
+.code-image {
+  display: block;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.efforts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 20px 0;
+  background-color: #f3f0f0;
+}
+
+.text {
+  max-width: 70%;
+  padding: 10px 20px;
+  box-shadow: 0 0 15px 1px #cccccc;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  border-top: 1px solid rgb(216, 212, 212);
+}
+
+.logo {
+  width: 70px;
+}
